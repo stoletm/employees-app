@@ -2,7 +2,7 @@ Create app for employees accounting
 
 Features:
   -rising employees by click on one
-  -encreasing salary by click on cookie
+  -increasing salary by click on cookie
   -adding/removing employees
   -search by name
   -filtering
